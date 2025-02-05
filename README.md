@@ -21,7 +21,7 @@ This code is provided open source under the MIT license.
 
 # Data sets
 
-We have included here the LSOA-level coastal designations derived from the G_25_5 candidate variable as CSV files here, for ease of update for analytical and operational use.  Both LSOA21 and LSOA11 are made available, to align with the supplementary files (PDF format) suplied by the journal.
+We have included here the LSOA-level coastal designations derived from the G_25_5 candidate variable as CSV files [here](https://github.com/DCEW/Coastal_BMJPH/tree/main/Data_files), for ease of update for analytical and operational use.  Both LSOA21 and LSOA11 are made available, to align with the supplementary files (PDF format) suplied by the journal.
 
 # Contact
 
